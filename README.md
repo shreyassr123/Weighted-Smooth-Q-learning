@@ -1,9 +1,14 @@
-# Weighted Smooth Q-learning (WSQL)
 
-This repository contains the implementation of the **Weighted Smooth Q-learning (WSQL)** algorithm, along with its applications to address two specific problems:
+## Weighted Smooth Q-Learning (WSQL)
 
-1. **Maximization Bias Example**
-2. **Multi-Armed Bandit Example**
+This repository contains the implementation of the **Weighted Smooth Q-Learning (WSQL)** algorithm, along with its applications to two illustrative problems:
+
+1. **Maximization Bias Example**  
+2. **Multi-Armed Bandit Example**  
+
+The details of this work are published in **IEEE Control Systems Letters**:  
+👉 [IEEE Xplore Link](https://ieeexplore.ieee.org/document/10925426)
+
 
 ## Repository Structure
 
