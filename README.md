@@ -44,7 +44,7 @@ Refer to the comments in each script for further customization options.
 
 ## Motivation and Acknowledgments
 
-This implementation is heavily inspired by the excellent work available at the GitHub repository: [The Mean Squared Error of Double Q-Learning](https://github.com/wentaoweng/The-Mean-Squared-Error-of-Double-Q-Learning). Special thanks to the authors for making the code available online.
+This implementation is inspired by the excellent work available at the GitHub repository: [The Mean Squared Error of Double Q-Learning](https://github.com/wentaoweng/The-Mean-Squared-Error-of-Double-Q-Learning). Special thanks to the authors for making the code available online.
 
 
 ## License
